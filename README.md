@@ -20,9 +20,13 @@ All the R scripts for data analysis and figures are located in the `scripts/` fo
 
 ## a) Data analysis
 
-*Acacia flower counts*: to reproduce the regression lines used to predict acacia flower densities at sites, use `acaciaregression_.r`
+*Acacia Isolation Metric*: to reproduce the isolation metric for each plot as provided in Table S1, use `aov_isolation_metric.r`
 
-*For analyses regarding the visitation to and seed set of 3 focal plant species*: use `focals_analysis_.R`
+*Chao Species Richness*: to generate Chao species richness values for plants, insects and interactions, use `chao_richness_persite.r`
+
+*NMDS*: to compare the insect and plant assemblages between sites, use `NMDS_.r`
+
+*For analyses regarding the visitation to and seed set of 3 focal plant species*: use `focals_.R`
 
 *For all other analyses*: including visitation networks, use `main_analysis_.r`
 
