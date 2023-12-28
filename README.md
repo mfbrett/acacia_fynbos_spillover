@@ -6,7 +6,7 @@ This repository contains all the R script and raw data required to reproduce the
 
 *Manuscript authors:* Maisie F. Brett | Paula Strauss | Kurt van Wyk |  Ian P. Vaughan | Jane Memmott
 
-*Author of R script:* Maisie F Brett
+*Author of R script:* Maisie F. Brett
 
 [Download][1] the data and script files, then run the scripts using [R][2] or [R Studio][3].
 
